@@ -1,3 +1,3 @@
 A small project written in python using pygame.
 
-Download the game folder if you want to play the game
+Download the dist folder if you want to play the game
